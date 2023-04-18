@@ -12,6 +12,8 @@ echo Removing snaps
 sudo snap remove firefox
 sudo snap remove gnome-3-38-2004
 sudo snap remove gtk-common-themes
+sudo snap remove snap-store
+sudo snap remove snapd-desktop-integration
 sudo snap remove core20
 sudo snap remove bare
 sudo snap remove snapd
